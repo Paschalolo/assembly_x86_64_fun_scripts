@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": ["${workspaceFolder}/**"],
+      "defines": [],
+      "compilerPath": "/opt/homebrew/bin/x86_64-elf-g++",
+      "cStandard": "c17",
+      "cppStandard": "c++14",
+      "intelliSenseMode": "linux-gcc-x86"
+    }
+  ],
+  "version": 4
+}
